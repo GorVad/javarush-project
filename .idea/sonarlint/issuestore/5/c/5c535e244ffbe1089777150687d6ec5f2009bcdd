@@ -1,0 +1,89 @@
+
+„
+java:S1854"<Remove this useless assignment to local variable "console2".(ÿØœïÿÿÿÿÿ8Ö‰ÓÉò1J$35506c4e-a69a-427a-a7d3-a1aa8fdc1442
+
+java:S1854"<Remove this useless assignment to local variable "console1".(Âä¼›8—¨ÓÉò1J$09beebd9-2b3a-49b9-a3b6-925c744a5f02
+}
+java:S1854":Remove this useless assignment to local variable "array5".(¿„¯ñ8ûİÑÉò1J$f02f1d40-c7cd-48a7-8d71-5a099881c206
+‚
+java:S1854":Remove this useless assignment to local variable "array4".(©ÌÃ»şÿÿÿÿ8Ö‰ÓÉò1J$a7f627e7-c12b-4369-82e0-b8439bb07735
+‚
+java:S1854":Remove this useless assignment to local variable "array3".(Ú‡ñ§ùÿÿÿÿ8Ö‰ÓÉò1J$8f2b8708-d571-4074-9209-389b5fb16645
+}
+java:S1854":Remove this useless assignment to local variable "array2".(‚Ôã8Ö‰ÓÉò1J$4ce7bca1-b6ac-48f5-95f6-8ec46ef87729
+}
+java:S1854":Remove this useless assignment to local variable "array1".(ÉíÏœ8Ö‰ÓÉò1J$197395a8-fcd4-4366-967b-1f8d2442b39a
+
+java:S1854"9Remove this useless assignment to local variable "str10".(Ç àúûÿÿÿÿ8¶şÎÉò1J$a1c615e7-2592-423e-a269-64ed8d5059e0
+€
+java:S1854"8Remove this useless assignment to local variable "str9".(óÇ­­ıÿÿÿÿ8¹¦ÏÉò1J$2c78a9c8-c43a-4060-923b-7455ca7ab870
+€
+java:S1854"8Remove this useless assignment to local variable "str8".(©àñşÿÿÿÿ8ÅşÎÉò1J$163eab20-098e-421a-a081-b4070b159e9b
+€
+java:S1854"8Remove this useless assignment to local variable "str7".(óßşÏÿÿÿÿÿ8ÅşÎÉò1J$0b0c62b2-f1d8-46a0-b47f-30005cdfce21
+{
+java:S1854"8Remove this useless assignment to local variable "str6".(ü¬‹Ì8¹¦ÏÉò1J$ef26ddbf-3d4d-416e-af08-b02b43dbcc8b
+z
+java:S1854"8Remove this useless assignment to local variable "str5".(œ£ó/8¹¦ÏÉò1J$fa6a913d-0eda-490b-8d4b-78ed28f0166b
+€
+java:S1854"8Remove this useless assignment to local variable "str4".(ß‰±‡ıÿÿÿÿ8¹¦ÏÉò1J$4c66b3bd-c83b-44d3-bd81-67f9bd9aba49
+€
+java:S1854"8Remove this useless assignment to local variable "str3".(ËÙ¸ùÿÿÿÿ8ÉÃÏÉò1J$4772e43e-c16f-4370-b9cf-0865b1ad7a15
+€
+java:S1854"8Remove this useless assignment to local variable "str2".(ÄØ¾Óøÿÿÿÿ8¹¦ÏÉò1J$0be862f3-1faa-432d-b1d5-4211305dd422
+€
+java:S1854"8Remove this useless assignment to local variable "str1".(¯›øÿÿÿÿ8¹¦ÏÉò1J$5acccc69-18f9-44ca-9a39-b4693bea8a4c
+h
+java:S2129" Remove this "String" constructor(¯›øÿÿÿÿ8ËşÎÉò1J$2aac15d9-edb6-447d-b145-780cac9bff28
+q
+java:S1481")Remove this unused "str1" local variable.(¯›øÿÿÿÿ8ËşÎÉò1J$c84e0a79-80ae-4ae7-b3de-12ff07116624
+h
+java:S2129" Remove this "String" constructor(ÄØ¾Óøÿÿÿÿ8ËşÎÉò1J$8043ed0e-44d1-4b51-a326-94d1a9f7efc3
+q
+java:S1481")Remove this unused "str2" local variable.(ÄØ¾Óøÿÿÿÿ8ËşÎÉò1J$4c060998-64f9-4cd5-b751-3ab60f44a704
+h
+java:S2129" Remove this "String" constructor(ËÙ¸ùÿÿÿÿ8ËşÎÉò1J$09bdff7e-4ef5-43a3-800a-09874d7d7608
+q
+java:S1481")Remove this unused "str3" local variable.(ËÙ¸ùÿÿÿÿ8ËşÎÉò1J$737f53a2-a82e-4a91-a097-20b1b90bf2a8
+h
+java:S2129" Remove this "String" constructor(ß‰±‡ıÿÿÿÿ8É¦ÏÉò1J$df7b96dd-793a-4282-812b-78959aca1eba
+q
+java:S1481")Remove this unused "str4" local variable.(ß‰±‡ıÿÿÿÿ8€ùÏÉò1J$67c2938b-8d7c-4ebc-9c03-39f510796cf9
+b
+java:S2129" Remove this "String" constructor(œ£ó/8É¦ÏÉò1J$5bcfc31a-8114-4f0f-b9b2-a13e39a65689
+k
+java:S1481")Remove this unused "str5" local variable.(œ£ó/8€ùÏÉò1J$ecfc8947-cbbb-4b57-aa60-464e67d9257e
+c
+java:S2129" Remove this "String" constructor(ü¬‹Ì8É¦ÏÉò1J$92b48e13-4cba-4d7d-8780-2a7f9ecda28f
+l
+java:S1481")Remove this unused "str6" local variable.(ü¬‹Ì8€ùÏÉò1J$03edd47c-8ef1-453f-b7f8-b443149d8d18
+h
+java:S2129" Remove this "String" constructor(óßşÏÿÿÿÿÿ8É¦ÏÉò1J$d8ed9f34-ea0a-4776-95e0-6ee6fdca1099
+q
+java:S1481")Remove this unused "str7" local variable.(óßşÏÿÿÿÿÿ8€ùÏÉò1J$8a0dbd5d-dd2b-4eb4-b8fc-fb4820f7c689
+h
+java:S2129" Remove this "String" constructor(©àñşÿÿÿÿ8É¦ÏÉò1J$1307c1d8-f82d-4275-8ad1-3d8120d7f248
+q
+java:S1481")Remove this unused "str8" local variable.(©àñşÿÿÿÿ8€ùÏÉò1J$566ca25a-c972-4450-819f-19c66376b506
+h
+java:S2129" Remove this "String" constructor(óÇ­­ıÿÿÿÿ8É¦ÏÉò1J$c7534fac-5e7b-4352-aaee-371c11dcadc5
+q
+java:S1481")Remove this unused "str9" local variable.(óÇ­­ıÿÿÿÿ8€ùÏÉò1J$572981a8-19d6-4268-b21d-1064e8e45b17
+h
+java:S2129" Remove this "String" constructor(Ç àúûÿÿÿÿ8ÉÃÏÉò1J$b9f6cf38-c59f-4567-84cf-dd50cf84a327
+r
+java:S1481"*Remove this unused "str10" local variable.(Ç àúûÿÿÿÿ8€ùÏÉò1J$94045621-58b9-4131-a50a-862c688216d9
+n
+java:S1481"+Remove this unused "array1" local variable.(ÉíÏœ8‹ŞÑÉò1J$d5d212b3-d015-4690-950c-165298a2957c
+n
+java:S1481"+Remove this unused "array2" local variable.(‚Ôã8æ‰ÓÉò1J$c63a8ff7-8d25-4a9a-b361-6d3a1ad1b834
+s
+java:S1481"+Remove this unused "array3" local variable.(Ú‡ñ§ùÿÿÿÿ8æ‰ÓÉò1J$f3635d8b-16e4-46b9-bb1e-d529df125404
+s
+java:S1481"+Remove this unused "array4" local variable.(©ÌÃ»şÿÿÿÿ8æ‰ÓÉò1J$6f9a9d72-5909-4a30-b098-31f8e49c683c
+n
+java:S1481"+Remove this unused "array5" local variable.(¿„¯ñ8æ‰ÓÉò1J$01517d85-74cc-4df5-9a9c-03bb383d1dff
+p
+java:S1481"-Remove this unused "console1" local variable.(Âä¼›8æ‰ÓÉò1J$4f22c98e-35ee-4dfa-8a5c-b8f52973c178
+O
+java:S1481"-Remove this unused "console2" local variable.(ÿØœïÿÿÿÿÿ8½ÇÓÉò1

@@ -1,0 +1,11 @@
+
+‡
+java:S1854
+"?Remove this useless assignment to local variable "doubleArray".(û‹»Áùÿÿÿÿ8áâÓªò1J$594a8d02-34ac-4e78-b519-db20d90ac06b
+
+java:S1854	"<Remove this useless assignment to local variable "intArray".(­ö°´8¯üÓªò1J$63ec9d7f-fd61-4549-8c51-75ff7ab3b1f4
+p
+java:S1481	"-Remove this unused "intArray" local variable.(­ö°´8áâÓªò1J$756ae7ff-8f1f-4b40-987d-5b1df1134688
+R
+java:S1481
+"0Remove this unused "doubleArray" local variable.(û‹»Áùÿÿÿÿ8“ĞÖªò1

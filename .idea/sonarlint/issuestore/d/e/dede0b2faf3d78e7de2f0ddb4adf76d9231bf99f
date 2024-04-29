@@ -1,0 +1,15 @@
+
+“
+java:S1104"QMake array a static final constant or non-public and provide accessors if needed.(´£›O8Î÷æ¯ò1J$9fd86fd2-cda6-4b3d-b96c-9150618ce07f
+›
+java:S1104"SMake element a static final constant or non-public and provide accessors if needed.(ÕûšÀûÿÿÿÿ8Î÷æ¯ò1J$391a6045-e92f-4dc4-ad18-15d92c64a536
+m
+java:S1444"+Make this "public static array" field final(´£›O8Î÷æ¯ò1J$6479f38a-5049-430b-9cef-ff154ae1ea49
+u
+java:S1444"-Make this "public static element" field final(ÕûšÀûÿÿÿÿ8Î÷æ¯ò1J$11356ed3-d113-4d26-88e6-705443b7caa7
+_
+java:S2386"Make this member "protected".(´£›O8Î÷æ¯ò1J$4fe55814-59b0-40c8-b8a8-561518ff03a6
+d
+java:S1126"BReplace this if-then-else statement by a single method invocation.(À¼Ë×øÿÿÿÿ8¼„ò¯ò1
+r	java:S106"+Replace this use of System.out by a logger.(ûãÁùùÿÿÿÿ8ºßç¯ò1J$bf9a3348-2a7b-4752-aac8-f32633be37a5
+L	java:S106"+Replace this use of System.out by a logger.(ý·‡‘øÿÿÿÿ8¼„ò¯ò1

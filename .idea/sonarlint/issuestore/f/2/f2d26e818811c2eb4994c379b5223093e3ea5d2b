@@ -1,0 +1,14 @@
+
+w
+java:S1066"/Merge this if statement with the enclosing one.(‡šøıÿÿÿÿ8™¡¤­ò1J$6709366f-6e34-4f76-83ad-b795e24d14ea
+–
+java:S1104
+"SMake strings a static final constant or non-public and provide accessors if needed.(Å€®«8¿ú£­ò1J$546da55d-aae0-412a-952e-ca94f0a5a664
+p
+java:S1444
+"-Make this "public static strings" field final(Å€®«8¿ú£­ò1J$04229e65-992b-466f-af62-2324edd7ada0
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8îú£­ò1J$6a29f9f9-9f63-4a11-91fa-15d38f978c85
+e
+java:S2386""Make member "strings" "protected".(”Èéô8şú£­ò1J$a8225de5-8516-4295-92fc-49669e78a329
+r	java:S106("+Replace this use of System.out by a logger.(õ–Ğûÿÿÿÿÿ8şú£­ò1J$664a047f-a707-4957-a77b-e5c09e1e71ca

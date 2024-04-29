@@ -1,0 +1,16 @@
+
+™
+java:S1104"QMake array a static final constant or non-public and provide accessors if needed.(¦ãéûüÿÿÿÿ8€«ã®ò1J$6f6c511e-f915-42d9-9262-80109f1643b0
+
+java:S1104"VMake valueStart a static final constant or non-public and provide accessors if needed.(¨û¨Åÿÿÿÿÿ8€«ã®ò1J$9c33909a-6c0b-46f5-b100-a54d4bbbca37
+œ
+java:S1104"TMake valueEnd a static final constant or non-public and provide accessors if needed.(–Æƒ¹üÿÿÿÿ8€«ã®ò1J$e8c7457f-0ccc-4c5c-83d4-747b1786e78b
+s
+java:S1444"+Make this "public static array" field final(¦ãéûüÿÿÿÿ8€«ã®ò1J$4cbbb41d-068a-4f21-8bbe-ba876546575e
+x
+java:S1444"0Make this "public static valueStart" field final(¨û¨Åÿÿÿÿÿ8€«ã®ò1J$c3acc2dc-05e6-4c22-8227-781e8df7b57e
+v
+java:S1444".Make this "public static valueEnd" field final(–Æƒ¹üÿÿÿÿ8€«ã®ò1J$04e42de5-6447-4c47-aeb7-7f681f3688c6
+e
+java:S2386"Make this member "protected".(¦ãéûüÿÿÿÿ8€«ã®ò1J$33dd0efb-cf47-46db-b35f-0b41453fa3b0
+r	java:S106"+Replace this use of System.out by a logger.(ƒìîüıÿÿÿÿ8«ã®ò1J$420de37d-ac63-4b06-9648-429ab22f177c

@@ -1,0 +1,13 @@
+
+t
+java:S1104	"RMake radius a static final constant or non-public and provide accessors if needed.(Ù€Îîşÿÿÿÿ8°é°Çò1
+v
+java:S1104
+"TMake diameter a static final constant or non-public and provide accessors if needed.(üÓ¹‚úÿÿÿÿ8°é°Çò1
+N
+java:S1444	",Make this "public static radius" field final(Ù€Îîşÿÿÿÿ8°é°Çò1
+P
+java:S1444
+".Make this "public static diameter" field final(üÓ¹‚úÿÿÿÿ8°é°Çò1
+f	java:S106"+Replace this use of System.out by a logger.(Ù´ıJ$883f7a9c-9ea7-4e16-8964-c8bbe10fc811
+f	java:S106"+Replace this use of System.out by a logger.(­ÿØæJ$2945294f-11cd-4d5f-bfc2-e2be968ed436

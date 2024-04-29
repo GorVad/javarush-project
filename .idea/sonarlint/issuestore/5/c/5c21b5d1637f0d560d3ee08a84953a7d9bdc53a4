@@ -1,0 +1,9 @@
+
+
+java:S1104	"TMake position a static final constant or non-public and provide accessors if needed.(à¥ôõJ$5dd52283-c8fa-4dc9-8278-e5eb19f0f577
+“
+java:S1104
+"RMake salary a static final constant or non-public and provide accessors if needed.(¬»õÔşÿÿÿÿJ$dd4d7b77-81b4-449c-a421-cbfc3da4af9e
+–	java:S116"ORename this field "NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼½ò¶ùÿÿÿÿ8»ãÃÇò1J$6c44082e-f2bf-4b72-8b4e-44eda7637275
+i
+java:S1170"!Make this final field static too.(¼½ò¶ùÿÿÿÿ8Ä¾ÃÇò1J$5141e173-af1c-4881-898f-c075b5d2e92b

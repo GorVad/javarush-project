@@ -1,0 +1,54 @@
+
+’
+java:S1104"QMake char1 a static final constant or non-public and provide accessors if needed.(Å‚±øÿÿÿÿJ$40af13b6-2209-44f3-89ac-81295ae8d139
+’
+java:S1104	"QMake char2 a static final constant or non-public and provide accessors if needed.(ü­å‘ÿÿÿÿÿJ$ea7fe7cf-0db9-43ae-91d3-02ff3987cc0b
+’
+java:S1104
+"QMake char3 a static final constant or non-public and provide accessors if needed.(ñ¥êÔşÿÿÿÿJ$0560ec57-fefc-45f5-bfdb-b632516870b3
+
+java:S1104"QMake char4 a static final constant or non-public and provide accessors if needed.(»¨Ã­J$e48a6c48-cec8-4473-887d-17bba27e64e7
+
+java:S1104"QMake char5 a static final constant or non-public and provide accessors if needed.(ùãªèJ$26b3698e-aa9a-4bec-839e-1f3de6fe4a18
+’
+java:S1104"QMake char6 a static final constant or non-public and provide accessors if needed.(†¡‡öûÿÿÿÿJ$07c826d0-1412-41e3-b919-d49b2bf68b3b
+’
+java:S1104"QMake char7 a static final constant or non-public and provide accessors if needed.(Û†‹ÿÿÿÿÿJ$a97cf85e-a387-41e9-9fdc-1431dfca2f67
+’
+java:S1104"QMake char8 a static final constant or non-public and provide accessors if needed.(µó’ûÿÿÿÿJ$65d59ffe-51a0-4b04-abc2-7b529e2f97cd
+
+java:S1104"QMake char9 a static final constant or non-public and provide accessors if needed.(Ñİ±åJ$ed98853c-7e3b-40b0-a144-8eac70de2e6b
+
+java:S1104"RMake char10 a static final constant or non-public and provide accessors if needed.(æÉâúJ$bf108232-9679-4d0f-a44c-bbb0fdd0a588
+l
+java:S1444"+Make this "public static char1" field final(Å‚±øÿÿÿÿJ$2841131d-38d6-4f4a-90bf-ffece9aad3b6
+l
+java:S1444	"+Make this "public static char2" field final(ü­å‘ÿÿÿÿÿJ$28fa1345-eafa-44cc-904b-c164c7af0a90
+l
+java:S1444
+"+Make this "public static char3" field final(ñ¥êÔşÿÿÿÿJ$65ccac01-de31-4c37-b35c-cf78f40bc254
+g
+java:S1444"+Make this "public static char4" field final(»¨Ã­J$fcb25fe9-72fd-4c08-804c-cec413399c6e
+g
+java:S1444"+Make this "public static char5" field final(ùãªèJ$9b294e80-ee41-413f-8f8e-51b9c74d2eaa
+l
+java:S1444"+Make this "public static char6" field final(†¡‡öûÿÿÿÿJ$b23e7aed-8cf6-40b2-be4e-f8282c6b4bae
+l
+java:S1444"+Make this "public static char7" field final(Û†‹ÿÿÿÿÿJ$0e918777-fd4f-4cfb-be05-db8a8e23a222
+l
+java:S1444"+Make this "public static char8" field final(µó’ûÿÿÿÿJ$b37daefb-3b61-47db-831d-82d5e66273c7
+g
+java:S1444"+Make this "public static char9" field final(Ñİ±åJ$27490ada-9803-4bba-a474-33bcaa0e5ead
+h
+java:S1444",Make this "public static char10" field final(æÉâúJ$29a9a52f-0492-4da6-8c23-dbf44e9718d7
+k	java:S106"+Replace this use of System.out by a logger.(àü·›ÿÿÿÿÿJ$b1f2a45e-f397-4aab-96e1-03a2b7e1ad1f
+f	java:S106"+Replace this use of System.out by a logger.(º—„éJ$fc764fd1-b09e-46a3-aa00-659fd626d674
+k	java:S106"+Replace this use of System.out by a logger.(ÜîËüÿÿÿÿJ$bf930896-8dc2-445c-9f73-fe1bc91688dc
+k	java:S106"+Replace this use of System.out by a logger.(»¶‹ÑúÿÿÿÿJ$1fe853fb-bf08-47b7-bfb6-8f8dc35d3284
+k	java:S106"+Replace this use of System.out by a logger.(Ïã­£ÿÿÿÿÿJ$14d38e5e-5c95-4dda-88a3-c54090bc7b56
+k	java:S106"+Replace this use of System.out by a logger.(Å¨£¡üÿÿÿÿJ$2d73b533-61f4-423a-96ae-15f1934361a0
+r	java:S106"+Replace this use of System.out by a logger.(Ïó½åøÿÿÿÿ8Š´‚Éò1J$12779865-4922-4bb5-b4fe-2f0613b02a04
+m	java:S106"+Replace this use of System.out by a logger.(‚Øª8©Š…Éò1J$882bf8cf-fe6a-4892-8131-ad569bf2e0f8
+r	java:S106"+Replace this use of System.out by a logger.(‹˜¡¸üÿÿÿÿ8ğÒ†Éò1J$d36fdf64-38f2-4c42-9907-86bce8dd4225
+r	java:S106"+Replace this use of System.out by a logger.(ìú€şÿÿÿÿ8À‡Éò1J$42597f1c-9985-48d2-82ae-770e14461141
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ó«‡Éò1J$3169a253-8da6-44a5-aecc-b49722dcf1a3
