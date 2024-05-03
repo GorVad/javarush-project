@@ -1,0 +1,9 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(Å‹±Ùüÿÿÿÿ8‘˜ëñò1
+G	java:S106"+Replace this use of System.out by a logger.(ÈˆÅ·8‘˜ëñò1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÄÉ€¯ùÿÿÿÿ8‘˜ëñò1
+o
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(™‘8¡˜ëñò1
+u
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…ÄúÿÿÿÿJ$4a06b68b-7a7d-4e06-b595-05fd85a4812a

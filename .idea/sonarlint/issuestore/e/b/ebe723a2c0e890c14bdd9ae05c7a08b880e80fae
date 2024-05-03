@@ -1,0 +1,15 @@
+
+—
+java:S1450
+"TRemove the "color" field and declare it as a local variable in the relevant methods.(È„…¦8Š×êó1J$a33bf8cc-5f28-4fc6-b0c6-6427a3ebafeb
+œ
+java:S1450"TRemove the "model" field and declare it as a local variable in the relevant methods.(³—öûÿÿÿÿ8‹×êó1J$0d4aa0dd-e915-4f85-9765-b61048328397
+–
+java:S1450	"SRemove the "year" field and declare it as a local variable in the relevant methods.(¡‚ºğ8‹×êó1J$e5abe15a-494e-46fe-a3b6-6831c6c2cb0e
+q
+java:S1068")Remove this unused "model" private field.(³—öûÿÿÿÿ8çíÕêó1J$52711d6f-edc2-42c8-b653-db5786bf6db1
+k
+java:S1068	"(Remove this unused "year" private field.(¡‚ºğ8çíÕêó1J$a27c07ee-fd17-438e-ba63-bf4b2fa4ceb9
+l
+java:S1068
+")Remove this unused "color" private field.(È„…¦8çíÕêó1J$e0cf80a6-2541-4171-a406-a674bfd0424f

@@ -1,0 +1,13 @@
+
+“
+java:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8¦‚ßËó1J$5ee75e4f-c529-4aeb-b520-0174fe06c91d
+r	java:S106"+Replace this use of System.out by a logger.(‹äùüùÿÿÿÿ8‰ÌÛËó1J$3ed652b3-b296-4ca7-8931-9a7ff00c6148
+“
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(‹äùüùÿÿÿÿ8òÊßËó1J$c0f49938-d1ad-43ce-8f39-a779814f88db
+r	java:S106"+Replace this use of System.out by a logger.(¥Âÿ˜ıÿÿÿÿ8òÊßËó1J$b08058ee-2b90-45f9-a141-3bfbd686b041
+m	java:S106"+Replace this use of System.out by a logger.(ÿ°÷¯8òÊßËó1J$cee0405d-f7bb-4848-be60-fb7f458e8435
+m	java:S106"+Replace this use of System.out by a logger.(Îä³¯8òÊßËó1J$51787488-2f16-4cd7-9fd8-caa304daf6cd
+r	java:S106"+Replace this use of System.out by a logger.(©Õ™±ÿÿÿÿÿ8òÊßËó1J$364cdfa1-e07f-4e6a-8d45-64fe7fae3744
+m	java:S106 "+Replace this use of System.out by a logger.(ÉÁÁ8òÊßËó1J$90ad9954-da43-4036-bf44-5725b2a3475e
+k
+java:S1068	"(Remove this unused "year" private field.(¡‚ºğ8‰ÌÛËó1J$2d707a34-5af7-4bb1-a599-e0954df2d90e

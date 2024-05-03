@@ -1,0 +1,17 @@
+
+z
+java:S1854">Remove this useless assignment to local variable "bigInteger".(ž²÷…J$cb1acfed-8e80-4b9e-994a-dcb0e3c64598
+ƒ
+java:S1854
+"BRemove this useless assignment to local variable "bufferedReader".(çÜÀÍÿÿÿÿÿJ$14f5ae8c-d6b4-481a-b0a7-7770306c5b62
+~
+java:S1854	"=Remove this useless assignment to local variable "arrayList".(É¿÷ŽûÿÿÿÿJ$1155eb0c-fdc3-487e-a9c1-8be73b54bf80
+o
+java:S1481	".Remove this unused "arrayList" local variable.(É¿÷ŽûÿÿÿÿJ$bd3c7771-ffa2-4a6b-952c-2baf25170a7c
+t
+java:S1481
+"3Remove this unused "bufferedReader" local variable.(çÜÀÍÿÿÿÿÿJ$37f88eef-e069-4348-967e-b6aae3170ada
+`
+java:S2129"$Remove this "BigInteger" constructor(ž²÷…J$8ef59ebb-fbe5-4bba-8f15-a26357c5718f
+k
+java:S1481"/Remove this unused "bigInteger" local variable.(ž²÷…J$c8d09129-c12c-4f28-8ade-3a93aefe8c42

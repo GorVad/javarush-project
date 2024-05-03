@@ -1,0 +1,5 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ©ŒÇşÿÿÿÿ8¯ÍïÃó1J$0a12bb02-982a-468c-9a8f-2f658033c12a
+°
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "formatted_string".(Ğ©ŒÇşÿÿÿÿ8ÍàïÃó1J$1dbc1406-fb99-4600-83c7-c669eaa5fe7d
+r	java:S106	"+Replace this use of System.out by a logger.(ç¼ÿ„ıÿÿÿÿ8·ÍïÃó1J$0c48081e-b7f2-4e58-ac8d-6a6a5275283f

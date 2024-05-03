@@ -1,0 +1,9 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(î¤©‚8§¿ºÐò1J$04fe350b-7c8e-4deb-92e2-7b55727d2c2c
+‚
+java:S1854"?Remove this useless assignment to local variable "finalAnswer".(ûØÝ¿8§¿ºÐò1J$af46955c-ebae-4db3-b9d7-204071ffb794
+c
+java:S2129" Remove this "String" constructor(ûØÝ¿8¬¿ºÐò1J$e07ff46a-c60f-4df6-81f6-93ad7c0c9d81
+`
+java:S2119"Save and re-use this "Random".(¼ÝÅf8¬¿ºÐò1J$3f8ca790-cf87-4fff-a206-ac0e1e0a3a6d

@@ -1,0 +1,5 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(¼¼¥—8í¹×ïò1J$d41dbb99-9c89-42e8-9a71-61b3c2dccec7
+l	java:S106"+Replace this use of System.out by a logger.(¤Á°8í¹×ïò1J$c841c7dd-0c98-4427-8c57-76a8f65be162
+|
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8ü¹×ïò1J$cd87d928-801b-44ee-9dfe-8e9c0b533cad

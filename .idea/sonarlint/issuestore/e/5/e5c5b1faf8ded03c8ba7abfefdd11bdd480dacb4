@@ -1,0 +1,16 @@
+
+|
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "isEqual".(ŞĞÀ„8ôÚ‚Äó1
+
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ŞĞÀ„8ì´‚Äó1J$65f8f56b-1145-4535-b6f5-d614db868312
+c
+java:S2129	" Remove this "String" constructor(òÿî¬8ó´‚Äó1J$79d7c9c4-11bf-4e5e-8954-95903166a56d
+h
+java:S2129
+" Remove this "String" constructor(¶²îøÿÿÿÿ8ô´‚Äó1J$9cd86152-667a-4c41-aa31-45ff0a820a31
+h
+java:S2129" Remove this "String" constructor(—Ì¼üÿÿÿÿ8ô´‚Äó1J$94538095-65b2-422e-aca3-b0be4ba4843d
+m	java:S106"+Replace this use of System.out by a logger.(¼˜¿ö8õ´‚Äó1J$4b7a6da6-14c5-455a-8a88-8085b66d784b
+m	java:S106"+Replace this use of System.out by a logger.(ÊË«¤8õ´‚Äó1J$760a6661-9d06-43af-876a-14321d0daa43
+©
+java:S1221"aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.(åš¸½ÿÿÿÿÿ8÷´‚Äó1J$f493b24c-69d2-4fd8-b153-a0b8ed02c94e

@@ -1,0 +1,8 @@
+
+“
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(’ÜÇŞ8Í¿ Ëó1J$601a0049-dac2-4dbc-bff9-06916ba555cf
+„
+java:S1126*"AReplace this if-then-else statement by a single return statement.(‘ÉÈ8Í¿ Ëó1J$e07e1f1a-cfac-44e2-9bda-a05b907a1ea9
+m	java:S1065"+Replace this use of System.out by a logger.(Ëğ‡8Í¿ Ëó1J$d8cc3af1-120b-4040-b343-f6ef53db8155
+q
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8Í¿ Ëó1J$8b1836f0-b00e-4ea5-9f54-35a0f3b4cd7a

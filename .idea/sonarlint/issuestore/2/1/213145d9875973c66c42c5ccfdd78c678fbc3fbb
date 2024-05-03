@@ -1,0 +1,7 @@
+
+m	java:S106
+"+Replace this use of System.out by a logger.(Ë£Ô8Ò÷èÇó1J$0a226b8f-3df4-4b70-85dd-337ec70ac53f
+†
+java:S1854">Remove this useless assignment to local variable "skyscraper".(ÞÚ³Çýÿÿÿÿ8¶¬êÇó1J$87a6f444-015a-4530-ac44-eac559965040
+w
+java:S1481"/Remove this unused "skyscraper" local variable.(ÞÚ³Çýÿÿÿÿ8¶¬êÇó1J$a7cacdf2-2298-4c54-8230-7f65bdfe0b42

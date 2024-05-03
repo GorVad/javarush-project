@@ -1,0 +1,16 @@
+
+j
+java:S1121".Extract the assignment out of this expression.(½¤³J$53460e0e-b376-4dc3-ba84-d08867abc3f1
+~
+java:S1854"BRemove this useless assignment to local variable "firstCondition".(½¤³J$d285b955-1ba6-4823-b413-6ec92665f680
+„
+java:S1854"CRemove this useless assignment to local variable "secondCondition".(×¥÷ÀùÿÿÿÿJ$82921900-b4dc-46ec-8d0c-c50ed2255d17
+\
+java:S2178"Correct this "&" to "&&".(½¤³8Ê¸ÿÑò1J$b5daba21-3f2b-4a83-9ac6-2ef0c3066fa4
+\
+java:S2178"Correct this "&" to "&&".(½¤³8ó™ƒÒò1J$9573431b-2a84-4d5a-ac7d-3ac0d440101f
+o
+java:S1481"3Remove this unused "firstCondition" local variable.(½¤³J$d95aeda0-fc11-4116-a479-257113af3814
+u
+java:S1481"4Remove this unused "secondCondition" local variable.(×¥÷ÀùÿÿÿÿJ$2474f338-7de0-4d72-a906-e88817c9119d
+k	java:S106"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿJ$ca1a3397-1818-4bbf-a477-5de4cf3b1271

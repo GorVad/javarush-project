@@ -1,0 +1,7 @@
+
+¦
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "random".(­éè¢üÿÿÿÿ8ýÄ†Ðò1J$e78df6b5-6734-4879-8677-71d9838ca9d5
+k	java:S106
+"+Replace this use of System.out by a logger.(¾æÍ²úÿÿÿÿJ$83d59d26-098e-425b-a9a3-8b96ae1f323e
+q
+java:S2140")Use "java.util.Random.nextInt()" instead.(­éè¢üÿÿÿÿ8ó¢†Ðò1J$c98b9905-d2cb-4fca-985e-b339eb13de68
